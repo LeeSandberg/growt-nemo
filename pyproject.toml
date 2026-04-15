@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "growt-nemo"
+version = "0.2.0"
+description = "Growt transfer audit callback for NVIDIA NeMo / PyTorch Lightning"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = ["pytorch-lightning>=2.0", "torch>=2.0", "numpy>=1.24", "growt-client>=0.2.0"]
+
+[project.optional-dependencies]
+wandb = ["wandb"]
+dev = ["pytest>=7.0", "pytest-mock>=3.10"]
+
+[tool.setuptools.packages.find]
+include = ["growt_nemo*"]
