@@ -45,3 +45,16 @@ print(callback.last_audit.diagnosis)  # SAFE / RED_FLAG
 ## License
 
 [MPL-2.0](LICENSE)
+
+## Status & Contributing
+
+This is an early release to get the integration started. The code works but is not battle-tested in production yet. We welcome contributions:
+
+- Bug fixes and improvements — PRs welcome
+- New features and endpoint integrations
+- Better error handling and edge cases
+- Documentation improvements
+- Test coverage
+
+Open an issue or submit a PR on GitHub. All contributions must be compatible with the MPL-2.0 license.
+
