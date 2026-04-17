@@ -58,3 +58,16 @@ This is an early release to get the integration started. The code works but is n
 
 Open an issue or submit a PR on GitHub. All contributions must be compatible with the MPL-2.0 license.
 
+
+## Related
+
+- [Documentation](https://transferoracle.ai/growt/docs) — API reference, all plugins, tiers
+- [growt-client](https://github.com/LeeSandberg/growt-client) — Python client (shared by all plugins)
+- [growt-modelopt](https://github.com/LeeSandberg/growt-modelopt) — NVIDIA ModelOpt
+- [growt-quark](https://github.com/LeeSandberg/growt-quark) — AMD Quark
+- [growt-nemo](https://github.com/LeeSandberg/growt-nemo) — NeMo / PyTorch Lightning
+- [growt-vllm](https://github.com/LeeSandberg/growt-vllm) — vLLM (NVIDIA + AMD)
+- [growt-triton](https://github.com/LeeSandberg/growt-triton) — Triton Inference Server
+- [growt-trt-validator](https://github.com/LeeSandberg/growt-trt-validator) — TensorRT validator
+- [growt-tao](https://github.com/LeeSandberg/growt-tao) — TAO Toolkit
+
