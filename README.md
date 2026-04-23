@@ -70,6 +70,7 @@ Open an issue or submit a PR on GitHub. All contributions must be compatible wit
 - [growt-triton](https://github.com/LeeSandberg/growt-triton) — Triton Inference Server
 - [growt-trt-validator](https://github.com/LeeSandberg/growt-trt-validator) — TensorRT validator
 - [growt-tao](https://github.com/LeeSandberg/growt-tao) — TAO Toolkit
+- [mlflow-growt](https://github.com/LeeSandberg/mlflow-growt) — MLflow evaluator + Model Registry gate
 - [growt-huggingface](https://github.com/LeeSandberg/growt-huggingface) — HuggingFace TrainerCallback + Model Card
 - [growt-wandb](https://github.com/LeeSandberg/growt-wandb) — W&B callback, artifact metadata, registry gate
 
